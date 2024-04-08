@@ -1,0 +1,981 @@
+[{
+    "info": {
+        "id": "281469",
+        "name": "Lavonne",
+        "cloudinaryImageId": "emlehbuwgsmryxhwzhvq",
+        "locality": "St. Marks Road",
+        "areaName": "St. Marks Road",
+        "costForTwo": "₹750 for two",
+        "cuisines": [
+            "Bakery",
+            "Desserts"
+        ],
+        "avgRating": 4.6,
+        "feeDetails": {
+            "restaurantId": "281469",
+            "fees": [
+                {
+                    "name": "BASE_DISTANCE",
+                    "fee": 3800
+                },
+                {
+                    "name": "BASE_TIME"
+                },
+                {
+                    "name": "ANCILLARY_SURGE_FEE"
+                }
+            ],
+            "totalFee": 3800
+        },
+        "parentId": "10530",
+        "avgRatingString": "4.6",
+        "totalRatingsString": "1K+",
+        "sla": {
+            "deliveryTime": 25,
+            "lastMileTravel": 2.8,
+            "serviceability": "SERVICEABLE",
+            "slaString": "25 mins",
+            "lastMileTravelString": "2.8 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2023-12-07 22:40:00",
+            "opened": true
+        },
+        "badges": {
+            "imageBadges": [
+                {
+                    "imageId": "newg.png",
+                    "description": "Gourmet"
+                }
+            ],
+            "textExtendedBadges": [
+                {
+                    "iconId": "guiltfree/GF_Logo_android_3x",
+                    "shortDescription": "options available",
+                    "fontColor": "#7E808C"
+                }
+            ]
+        },
+        "isOpen": true,
+        "aggregatedDiscountInfoV2": {},
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {
+                    "badgeObject": [
+                        {
+                            "attributes": {
+                                "imageId": "newg.png",
+                                "description": "Gourmet"
+                            }
+                        }
+                    ]
+                },
+                "textExtendedBadges": {
+                    "badgeObject": [
+                        {
+                            "attributes": {
+                                "description": "",
+                                "shortDescription": "options available",
+                                "fontColor": "#7E808C",
+                                "iconId": "guiltfree/GF_Logo_android_3x"
+                            }
+                        }
+                    ]
+                },
+                "textBased": {}
+            }
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+        "link": "swiggy://menu?restaurant_id=281469",
+        "text": "RESTAURANT_MENU",
+        "type": "DEEPLINK"
+    }
+},
+{
+    "info": {
+        "id": "3369",
+        "name": "Truffles",
+        "cloudinaryImageId": "cd832b6167eb9f88aeb1ccdebf38d942",
+        "locality": "St. Marks Road",
+        "areaName": "St. Marks Road",
+        "costForTwo": "₹450 for two",
+        "cuisines": [
+            "American",
+            "Desserts",
+            "Continental",
+            "Italian"
+        ],
+        "avgRating": 4.5,
+        "feeDetails": {
+            "restaurantId": "3369",
+            "fees": [
+                {
+                    "name": "BASE_DISTANCE",
+                    "fee": 3700
+                },
+                {
+                    "name": "BASE_TIME"
+                },
+                {
+                    "name": "ANCILLARY_SURGE_FEE"
+                }
+            ],
+            "totalFee": 3700
+        },
+        "parentId": "218065",
+        "avgRatingString": "4.5",
+        "totalRatingsString": "10K+",
+        "promoted": true,
+        "adTrackingId": "cid=9799878~p=2~eid=0000018c-4281-e8a9-0049-8b9f003f0215~srvts=1701922859177~45995",
+        "sla": {
+            "deliveryTime": 28,
+            "lastMileTravel": 3,
+            "serviceability": "SERVICEABLE",
+            "slaString": "28 mins",
+            "lastMileTravelString": "3.0 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2023-12-07 23:30:00",
+            "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "aggregatedDiscountInfoV2": {},
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "textBased": {},
+                "imageBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+        "link": "swiggy://menu?restaurant_id=3369",
+        "text": "RESTAURANT_MENU",
+        "type": "DEEPLINK"
+    }
+},
+{
+    "info": {
+        "id": "625034",
+        "name": "Sri Vishnu Grand",
+        "cloudinaryImageId": "rctrmtzcgye6h6608g1d",
+        "locality": "Gandhi Nagar",
+        "areaName": "Majestic",
+        "costForTwo": "₹200 for two",
+        "cuisines": [
+            "South Indian",
+            "North Indian",
+            "Chinese"
+        ],
+        "avgRating": 4.1,
+        "veg": true,
+        "feeDetails": {
+            "restaurantId": "625034",
+            "fees": [
+                {
+                    "name": "BASE_DISTANCE",
+                    "fee": 3100
+                },
+                {
+                    "name": "BASE_TIME"
+                },
+                {
+                    "name": "ANCILLARY_SURGE_FEE"
+                }
+            ],
+            "totalFee": 3100
+        },
+        "parentId": "5697",
+        "avgRatingString": "4.1",
+        "totalRatingsString": "100+",
+        "sla": {
+            "deliveryTime": 24,
+            "lastMileTravel": 2.1,
+            "serviceability": "SERVICEABLE",
+            "slaString": "24 mins",
+            "lastMileTravelString": "2.1 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2023-12-07 22:00:00",
+            "opened": true
+        },
+        "badges": {
+            "imageBadges": [
+                {
+                    "imageId": "v1695133679/badges/Pure_Veg111.png",
+                    "description": "pureveg"
+                }
+            ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "textBased": {},
+                "imageBased": {
+                    "badgeObject": [
+                        {
+                            "attributes": {
+                                "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                "description": "pureveg"
+                            }
+                        }
+                    ]
+                },
+                "textExtendedBadges": {}
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "50% OFF",
+            "subHeader": "UPTO ₹100"
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+        "link": "swiggy://menu?restaurant_id=625034",
+        "text": "RESTAURANT_MENU",
+        "type": "DEEPLINK"
+    }
+},
+{
+    "info": {
+        "id": "226779",
+        "name": "Chikkanna Tiffin Room",
+        "cloudinaryImageId": "bzc2wmmqdjqcv5efz9er",
+        "locality": "Nagarathpete",
+        "areaName": "City Market",
+        "costForTwo": "₹200 for two",
+        "cuisines": [
+            "South Indian",
+            "Snacks"
+        ],
+        "avgRating": 4.6,
+        "veg": true,
+        "feeDetails": {
+            "restaurantId": "226779",
+            "fees": [
+                {
+                    "name": "BASE_DISTANCE",
+                    "fee": 3100
+                },
+                {
+                    "name": "BASE_TIME"
+                },
+                {
+                    "name": "ANCILLARY_SURGE_FEE"
+                }
+            ],
+            "totalFee": 3100
+        },
+        "parentId": "20095",
+        "avgRatingString": "4.6",
+        "totalRatingsString": "100+",
+        "sla": {
+            "deliveryTime": 26,
+            "lastMileTravel": 1.3,
+            "serviceability": "SERVICEABLE",
+            "slaString": "26 mins",
+            "lastMileTravelString": "1.3 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2023-12-07 12:00:00",
+            "opened": true
+        },
+        "badges": {
+            "imageBadges": [
+                {
+                    "imageId": "v1695133679/badges/Pure_Veg111.png",
+                    "description": "pureveg"
+                }
+            ]
+        },
+        "isOpen": true,
+        "aggregatedDiscountInfoV2": {},
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {
+                    "badgeObject": [
+                        {
+                            "attributes": {
+                                "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                "description": "pureveg"
+                            }
+                        }
+                    ]
+                },
+                "textExtendedBadges": {},
+                "textBased": {}
+            }
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+        "link": "swiggy://menu?restaurant_id=226779",
+        "text": "RESTAURANT_MENU",
+        "type": "DEEPLINK"
+    }
+},
+{
+    "info": {
+        "id": "69997",
+        "name": "SLV Corner Restaurant",
+        "cloudinaryImageId": "vpp0p2bjtxr3qnis6zug",
+        "locality": "Slv Corner Vani Vilas Road",
+        "areaName": "Basavanagudi",
+        "costForTwo": "₹450 for two",
+        "cuisines": [
+            "Chinese",
+            "South Indian",
+            "North Indian",
+            "Desserts"
+        ],
+        "avgRating": 4.5,
+        "veg": true,
+        "feeDetails": {
+            "restaurantId": "69997",
+            "fees": [
+                {
+                    "name": "BASE_DISTANCE",
+                    "fee": 3700
+                },
+                {
+                    "name": "BASE_TIME"
+                },
+                {
+                    "name": "ANCILLARY_SURGE_FEE"
+                }
+            ],
+            "totalFee": 3700
+        },
+        "parentId": "21456",
+        "avgRatingString": "4.5",
+        "totalRatingsString": "10K+",
+        "sla": {
+            "deliveryTime": 23,
+            "lastMileTravel": 3,
+            "serviceability": "SERVICEABLE",
+            "slaString": "23 mins",
+            "lastMileTravelString": "3.0 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2023-12-07 22:00:00",
+            "opened": true
+        },
+        "badges": {
+            "imageBadges": [
+                {
+                    "imageId": "v1695133679/badges/Pure_Veg111.png",
+                    "description": "pureveg"
+                }
+            ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {
+                    "badgeObject": [
+                        {
+                            "attributes": {
+                                "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                "description": "pureveg"
+                            }
+                        }
+                    ]
+                },
+                "textExtendedBadges": {},
+                "textBased": {}
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "20% OFF",
+            "subHeader": "UPTO ₹50"
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+        "link": "swiggy://menu?restaurant_id=69997",
+        "text": "RESTAURANT_MENU",
+        "type": "DEEPLINK"
+    }
+},
+{
+    "info": {
+        "id": "765550",
+        "name": "Rajanna Military Hotel",
+        "cloudinaryImageId": "adf290c1b6be8eeb7872814311607395",
+        "locality": "Chord Road",
+        "areaName": "Vijayanagar",
+        "costForTwo": "₹250 for two",
+        "cuisines": [
+            "Biryani",
+            "North Indian"
+        ],
+        "avgRating": 4.1,
+        "feeDetails": {
+            "restaurantId": "765550",
+            "fees": [
+                {
+                    "name": "BASE_DISTANCE",
+                    "fee": 5500
+                },
+                {
+                    "name": "BASE_TIME"
+                },
+                {
+                    "name": "ANCILLARY_SURGE_FEE"
+                }
+            ],
+            "totalFee": 5500
+        },
+        "parentId": "165284",
+        "avgRatingString": "4.1",
+        "totalRatingsString": "100+",
+        "promoted": true,
+        "adTrackingId": "cid=9801755~p=3~eid=0000018c-4281-e8a9-0049-8ba0003f0368~srvts=1701922859177~45995",
+        "sla": {
+            "deliveryTime": 28,
+            "lastMileTravel": 6.1,
+            "serviceability": "SERVICEABLE",
+            "slaString": "28 mins",
+            "lastMileTravelString": "6.1 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2023-12-07 23:00:00",
+            "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "aggregatedDiscountInfoV2": {},
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {},
+                "textExtendedBadges": {},
+                "textBased": {}
+            }
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "isNewlyOnboarded": true,
+        "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+        "link": "swiggy://menu?restaurant_id=765550",
+        "text": "RESTAURANT_MENU",
+        "type": "DEEPLINK"
+    }
+},
+{
+    "info": {
+        "id": "307554",
+        "name": "Bangalore Thindies",
+        "cloudinaryImageId": "gmusbb8jn3ocox01hnc7",
+        "locality": "Infantry Road",
+        "areaName": "Shivaji Nagar",
+        "costForTwo": "₹80 for two",
+        "cuisines": [
+            "South Indian"
+        ],
+        "avgRating": 4.2,
+        "veg": true,
+        "feeDetails": {
+            "restaurantId": "307554",
+            "fees": [
+                {
+                    "name": "BASE_DISTANCE",
+                    "fee": 4300
+                },
+                {
+                    "name": "BASE_TIME"
+                },
+                {
+                    "name": "ANCILLARY_SURGE_FEE"
+                }
+            ],
+            "totalFee": 4300
+        },
+        "parentId": "20090",
+        "avgRatingString": "4.2",
+        "totalRatingsString": "1K+",
+        "sla": {
+            "deliveryTime": 27,
+            "lastMileTravel": 4,
+            "serviceability": "SERVICEABLE",
+            "slaString": "27 mins",
+            "lastMileTravelString": "4.0 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2023-12-07 18:50:00",
+            "opened": true
+        },
+        "badges": {
+            "imageBadges": [
+                {
+                    "imageId": "v1695133679/badges/Pure_Veg111.png",
+                    "description": "pureveg"
+                }
+            ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {
+                    "badgeObject": [
+                        {
+                            "attributes": {
+                                "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                "description": "pureveg"
+                            }
+                        }
+                    ]
+                },
+                "textExtendedBadges": {},
+                "textBased": {}
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "30% OFF",
+            "subHeader": "UPTO ₹75"
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+        "link": "swiggy://menu?restaurant_id=307554",
+        "text": "RESTAURANT_MENU",
+        "type": "DEEPLINK"
+    }
+},
+{
+    "info": {
+        "id": "454364",
+        "name": "Mulbagal Dosa Corner",
+        "cloudinaryImageId": "b0ffc1uxzkn6gjxgrf7y",
+        "locality": "1st Block",
+        "areaName": "Jayanagar",
+        "costForTwo": "₹300 for two",
+        "cuisines": [
+            "South Indian"
+        ],
+        "avgRating": 4.5,
+        "veg": true,
+        "feeDetails": {
+            "restaurantId": "454364",
+            "fees": [
+                {
+                    "name": "BASE_DISTANCE",
+                    "fee": 4300
+                },
+                {
+                    "name": "BASE_TIME"
+                },
+                {
+                    "name": "ANCILLARY_SURGE_FEE"
+                }
+            ],
+            "totalFee": 4300
+        },
+        "parentId": "141282",
+        "avgRatingString": "4.5",
+        "totalRatingsString": "1K+",
+        "sla": {
+            "deliveryTime": 29,
+            "lastMileTravel": 4,
+            "serviceability": "SERVICEABLE",
+            "slaString": "29 mins",
+            "lastMileTravelString": "4.0 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2023-12-07 11:30:00",
+            "opened": true
+        },
+        "badges": {
+            "imageBadges": [
+                {
+                    "imageId": "v1695133679/badges/Pure_Veg111.png",
+                    "description": "pureveg"
+                }
+            ]
+        },
+        "isOpen": true,
+        "aggregatedDiscountInfoV2": {},
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "textBased": {},
+                "imageBased": {
+                    "badgeObject": [
+                        {
+                            "attributes": {
+                                "description": "pureveg",
+                                "imageId": "v1695133679/badges/Pure_Veg111.png"
+                            }
+                        }
+                    ]
+                },
+                "textExtendedBadges": {}
+            }
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+        "link": "swiggy://menu?restaurant_id=454364",
+        "text": "RESTAURANT_MENU",
+        "type": "DEEPLINK"
+    }
+},
+{
+    "info": {
+        "id": "471009",
+        "name": "Virinchi Cafe",
+        "cloudinaryImageId": "yiu5hkb4fqwhtftmmq8v",
+        "locality": "Residency Road",
+        "areaName": "Ashok Nagar",
+        "costForTwo": "₹250 for two",
+        "cuisines": [
+            "South Indian"
+        ],
+        "avgRating": 4.2,
+        "veg": true,
+        "feeDetails": {
+            "restaurantId": "471009",
+            "fees": [
+                {
+                    "name": "BASE_DISTANCE",
+                    "fee": 3700
+                },
+                {
+                    "name": "BASE_TIME"
+                },
+                {
+                    "name": "ANCILLARY_SURGE_FEE"
+                }
+            ],
+            "totalFee": 3700
+        },
+        "parentId": "282713",
+        "avgRatingString": "4.2",
+        "totalRatingsString": "500+",
+        "sla": {
+            "deliveryTime": 24,
+            "lastMileTravel": 3,
+            "serviceability": "SERVICEABLE",
+            "slaString": "24 mins",
+            "lastMileTravelString": "3.0 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2023-12-07 17:00:00",
+            "opened": true
+        },
+        "badges": {
+            "textExtendedBadges": [
+                {
+                    "iconId": "guiltfree/GF_Logo_android_3x",
+                    "shortDescription": "options available",
+                    "fontColor": "#7E808C"
+                }
+            ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {},
+                "textExtendedBadges": {
+                    "badgeObject": [
+                        {
+                            "attributes": {
+                                "iconId": "guiltfree/GF_Logo_android_3x",
+                                "description": "",
+                                "shortDescription": "options available",
+                                "fontColor": "#7E808C"
+                            }
+                        }
+                    ]
+                },
+                "textBased": {}
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "20% OFF",
+            "subHeader": "UPTO ₹50"
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+        "link": "swiggy://menu?restaurant_id=471009",
+        "text": "RESTAURANT_MENU",
+        "type": "DEEPLINK"
+    }
+},
+{
+    "info": {
+        "id": "33076",
+        "name": "Hotel Prakruthi",
+        "cloudinaryImageId": "p0o9d1ezpord8curc9hz",
+        "locality": "SBI Staff Colony",
+        "areaName": "Vijayanagar",
+        "costForTwo": "₹200 for two",
+        "cuisines": [
+            "South Indian"
+        ],
+        "avgRating": 4,
+        "feeDetails": {
+            "restaurantId": "33076",
+            "fees": [
+                {
+                    "name": "BASE_DISTANCE",
+                    "fee": 4900
+                },
+                {
+                    "name": "BASE_TIME"
+                },
+                {
+                    "name": "ANCILLARY_SURGE_FEE"
+                }
+            ],
+            "totalFee": 4900
+        },
+        "parentId": "7529",
+        "avgRatingString": "4.0",
+        "totalRatingsString": "10K+",
+        "promoted": true,
+        "adTrackingId": "cid=9802759~p=4~eid=0000018c-4281-e8a9-0049-8ba1003f041a~srvts=1701922859177~45995",
+        "sla": {
+            "deliveryTime": 27,
+            "lastMileTravel": 5.8,
+            "serviceability": "SERVICEABLE",
+            "slaString": "27 mins",
+            "lastMileTravelString": "5.8 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2023-12-07 16:00:00",
+            "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "textExtendedBadges": {},
+                "textBased": {},
+                "imageBased": {}
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "₹100 OFF",
+            "subHeader": "ABOVE ₹349",
+            "discountTag": "FLAT DEAL"
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+        "link": "swiggy://menu?restaurant_id=33076",
+        "text": "RESTAURANT_MENU",
+        "type": "DEEPLINK"
+    }
+},
+{
+    "info": {
+        "id": "79234",
+        "name": "Airlines Hotel",
+        "cloudinaryImageId": "b1iffaxblxghqqyrmbkp",
+        "locality": "Ashok Nagar",
+        "areaName": "Lavelle Road",
+        "costForTwo": "₹400 for two",
+        "cuisines": [
+            "South Indian",
+            "North Indian"
+        ],
+        "avgRating": 4.4,
+        "veg": true,
+        "feeDetails": {
+            "restaurantId": "79234",
+            "fees": [
+                {
+                    "name": "BASE_DISTANCE",
+                    "fee": 3700
+                },
+                {
+                    "name": "BASE_TIME"
+                },
+                {
+                    "name": "ANCILLARY_SURGE_FEE"
+                }
+            ],
+            "totalFee": 3700
+        },
+        "parentId": "28130",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "1K+",
+        "sla": {
+            "deliveryTime": 24,
+            "lastMileTravel": 3,
+            "serviceability": "SERVICEABLE",
+            "slaString": "24 mins",
+            "lastMileTravelString": "3.0 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2023-12-07 21:30:00",
+            "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {},
+                "textExtendedBadges": {},
+                "textBased": {}
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "10% OFF",
+            "subHeader": "UPTO ₹40"
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+        "link": "swiggy://menu?restaurant_id=79234",
+        "text": "RESTAURANT_MENU",
+        "type": "DEEPLINK"
+    }
+}]
